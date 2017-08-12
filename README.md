@@ -1,2 +1,5 @@
 # hello-world
-Repository
+
+Hi Humans!
+
+I like apps testing and object oriented programming.
